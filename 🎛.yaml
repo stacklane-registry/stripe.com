@@ -1,0 +1,10 @@
+name: stripe.com
+
+type: rest-api
+
+rest-api:
+  prefix: https://api.stripe.com/v1
+  docs: https://stripe.com/docs/api
+  token: Bearer
+  payload: form
+  accept: application/json
