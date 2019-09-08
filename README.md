@@ -1,8 +1,12 @@
 # stripe.com
 
-This is a [Stacklane Connector](https://stacklane.com/docs/scripting/connectors) for [Stripe's API](https://stripe.com/docs/api).
+A [Stacklane Connector](https://stacklane.com/docs/scripting/connectors) for the [Stripe API](https://stripe.com/docs/api).
 
-For client side use of Stripe, specifiy additional Content-Security-Policy as:
+## Client Side
+
+The client side JavaScript for Stripe requires additional content security policies.
+
+Specify additional policies as follows:
 
 ```
 <script defer src="https://js.stripe.com/v3/"
