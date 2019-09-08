@@ -1,6 +1,6 @@
 # stripe.com
 
-This is a [Stacklane Connector](https://stacklane.com/docs/scripting/connectors) for Stripe's API.
+This is a [Stacklane Connector](https://stacklane.com/docs/scripting/connectors) for [Stripe's API](https://stripe.com/docs/api).
 
 For client side use of Stripe, specifiy additional Content-Security-Policy as:
 
