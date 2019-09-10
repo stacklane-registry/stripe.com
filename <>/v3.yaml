@@ -1,0 +1,9 @@
+script:
+  src: https://js.stripe.com/v3/
+  #integrity: # not supported by stripe.com
+  async: optional
+  
+csp:
+  script-src: https://js.stripe.com/v3/
+  frame-src: https://js.stripe.com
+  connect-src: https://api.stripe.com

@@ -1,6 +1,6 @@
 name: stripe.com
 
-type: rest-api
+type: connector
 
 rest-api:
   prefix: https://api.stripe.com/v1
