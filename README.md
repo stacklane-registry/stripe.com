@@ -7,7 +7,7 @@ A [Stacklane Connector](https://stacklane.com/docs/api/connectors) for the [Stri
 /🔌.yaml
 
 ```
-- https://github.com/stacklane-registry/stripe.com.git#!v1.0.1
+- https://github.com/stacklane-registry/stripe.com.git#!v1.0.2
 ```
 
 ## Tag Usage
