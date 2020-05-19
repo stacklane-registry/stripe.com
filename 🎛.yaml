@@ -8,3 +8,10 @@ rest-api:
   token: Bearer
   payload: form
   accept: application/json
+  meta:
+    name: Stacklane Stripe Connector
+    version: 1.0.3
+    partner_id: pp_partner_HI0VGwwUKS9vHt
+    url: https://github.com/stacklane-registry/stripe.com
+  headers:
+    Stripe-Version: 2020-03-02
