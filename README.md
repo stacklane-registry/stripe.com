@@ -9,7 +9,7 @@ As a best practice, use Stripe's [restricted API keys functionality](https://str
 /🔌.yaml
 
 ```
-- https://github.com/stacklane-registry/stripe.com.git#!v1.0.2
+- https://github.com/stacklane-registry/stripe.com.git#!v1.0.3
 ```
 
 ## Server Side Example
